@@ -11,18 +11,18 @@ from config import (
     OWNER_NAME,
     UPDATES_CHANNEL,
 )
-from program import __version__
+from program import version
 from driver.filters import command2
 from pyrogram import Client, filters
-from pyrogram import __version__ as pyrover
-from pytgcalls import (__version__ as pytover)
+from pyrogram import version as pyrover
+from pytgcalls import (version as pytover)
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-__major__ = 0
-__minor__ = 2
-__micro__ = 1
+major = 0
+minor = 2
+micro = 1
 
-__python_version__ = f"{version_info[0]}.{version_info[1]}.{version_info[2]}"
+python_version = f"{version_info[0]}.{version_info[1]}.{version_info[2]}"
 
 
 START_TIME = datetime.utcnow()
@@ -64,17 +64,17 @@ async def alive(client: Client, message: Message):
         ]
     )
 
-    alive = f"""**أنا {BOT_NAME}**
+    alive = f"""أنا {BOT_NAME}
 ✨ أعمل الأن بشكل طبيعي
-🍀 مطوري : [- محمد](https://t.me/P17_12)
-✨ إصداري: {__version__}
-🍀 إصدار البايوجرام: {pyrover}
-✨ إصدار البايثون: {__python_version__}
-🍀 إصدار المحادثة الصوتيه: {pytover.__version__}
-✨ وقت البدء: {uptime}
-🤍 قناة السورس : [𝐒𝐎𝐔𝐑𝐂𝐄](https://t.me/muisc_Tepthone)
+🍀 مطوري : [- علي ](https:/t.me/Q_P_K_E)
+🤔​​​​​​​​​​​​​​​​💕. إصداري: {version}
+🤔​​​​​​​​​​​​​​​​💕. إصدار البايوجرام: {pyrover}
+🤔​​​​​​​​​​​​​​​​💕. إصدار البايثون: {python_version}
+🤔​​​​​​​​​​​​​​​​💕. إصدار المحادثة الصوتيه: {pytover.version}
+🤔​​​​​​​​​​​​​​​​💕. وقت البدء: {uptime}
+🤔​​​​​​​​​​​​​​​​💕. قناة السورس : [𝐒𝐎𝐔𝐑𝐂𝐄](https://t.me/b_1_4_7)
 
-**شكرا لإضافتي لتشغيل الموسيقي والفديو في محادثتك الصوتية** ❤"""
+شكرا لإضافتي لتشغيل الموسيقي والفديو في محادثتك الصوتية 🖤"""
 
     await message.reply_photo(
         photo=f"{ALIVE_IMG}",
@@ -88,7 +88,7 @@ async def ping_pong(client: Client, message: Message):
     start = time()
     m_reply = await message.reply_text("جاري قياس البنك...")
     delta_ping = time() - start
-    await m_reply.edit_text("🏓 بنك\n" f"⚡️ `{delta_ping * 1000:.3f} ms`")
+    await m_reply.edit_text("🏓 بنك\n" f"⚡️ {delta_ping * 1000:.3f} ms")
 
 
 @Client.on_message(command2(["مدة التشغيل","مده التشغيل","وقت التشغيل"]))
@@ -98,6 +98,6 @@ async def get_uptime(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.reply_text(
         "🤖 حاله البوت:\n"
-        f"• **وقت التشغيل:** `{uptime}`\n"
-        f"• **وقت البدء:** `{START_TIME_ISO}`"
+        f"• وقت التشغيل: {uptime}\n"
+        f"• وقت البدء: {START_TIME_ISO}"
     )
