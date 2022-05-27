@@ -10,12 +10,12 @@
 
 [![جلسة بيوجرام](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``TAELR``
 
-## 🎭 حقوق السورس
+## 💕 حقوق السورس
 <p align="center">
-  <img src="https://telegra.ph/file/2d2c288212d9dd054a7a3.jpg">
+  <img src="https://telegra.ph/file/03341a31ae8da70c95ae6.jpg">
 </p>
 
-## ✨ المميزات
+## 🖤. المميزات
 - يدعم تشغيل الفيديو والموسيقى في المحادثة
 - يدعم المحادثات المتعددة
 - قائمه الانتظار مدعم
@@ -32,27 +32,27 @@
 ## 🛠 الاوامر:
 | الاوامر | الوصف |
 | ------ | ------ |
-| `/mplay (اسم الاغنيه)` | تشغيل أغنية من يوتيوب |
-| `/vplay (اسم الفديو)` | لتشغيل فديو من يوتيوب |
-| `/vstream (لينك البث)` | لتشغيل بث حي فديو|
-| `/pause` | لايقاف التشغيل ادمن فقط |
-| `/resume` | لاستكمال التشغيل ادمن فقط |
-| `/skip` | لتخطي الاغنيه ادمن فقط |
-| `/stop` | لانهاء العرض ادمن فقط |
-| `/vmute` | لكتم البوت المساعد |
-| `/vunmute` | لالغاء كتم البوت المساعد |
-| `/volume 1/200` | للتحكم في الصوت  |
-| `/playlist` | لرؤية قائمة الاغاني |
-| `/song (اسم الاغنيه)` | لتحميل اغنية |
-| `/video (اسم الفديو)` | لتحميل فديو |
-| `/userbotjoin` | لدعوة البوت المساعد |
-| `/userbotleave` | لمغادرة البوت المساعد |
-| `/leaveall` | خروج جميع المجموعات للمطور فقط |
-| `/update` | تحديث البوت للمطور فقط |
-| `/restart` | للمطور فقط اعاده تشغيل البوت |
-| `/clean` | مسح جميع الملفات |
-| `/rmd` | مسح جميع الملفات المحمله |
-##التنصيب على هيروكو💜
+| /mplay (اسم الاغنيه) | تشغيل أغنية من يوتيوب |
+| /vplay (اسم الفديو) | لتشغيل فديو من يوتيوب |
+| /vstream (لينك البث) | لتشغيل بث حي فديو|
+| /pause | لايقاف التشغيل ادمن فقط |
+| /resume | لاستكمال التشغيل ادمن فقط |
+| /skip | لتخطي الاغنيه ادمن فقط |
+| /stop | لانهاء العرض ادمن فقط |
+| /vmute | لكتم البوت المساعد |
+| /vunmute | لالغاء كتم البوت المساعد |
+| /volume 1/200 | للتحكم في الصوت  |
+| /playlist | لرؤية قائمة الاغاني |
+| /song (اسم الاغنيه) | لتحميل اغنية |
+| /video (اسم الفديو) | لتحميل فديو |
+| /userbotjoin | لدعوة البوت المساعد |
+| /userbotleave | لمغادرة البوت المساعد |
+| /leaveall | خروج جميع المجموعات للمطور فقط |
+| /update | تحديث البوت للمطور فقط |
+| /restart | للمطور فقط اعاده تشغيل البوت |
+| /clean | مسح جميع الملفات |
+| /rmd | مسح جميع الملفات المحمله |
+##التنصيب على هيروكو.❤️‍🔥
 من أسهل طرق تشغيل البوت ولكن مدتها 22 يوم فقط 
 
 [![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://github.com/778888377/source)
@@ -63,9 +63,9 @@
 
 
 ### قناة التحديثات والدعم 🎑
-<a href="https://t.me/Tepthone_Support_Muisc"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tepthone_muisc"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/c_3_517"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/b_1_4_7"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/P17_12"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a>
+<a href="https://t.me/Q_P_K_E"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/Q_P_K_E"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/Q_P_K_E"><img src="https://img.shields.io/badge/Dev%20Mohammad-blue.svg?style=for-the-badge&logo=Ammar"></a>
