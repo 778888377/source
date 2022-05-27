@@ -55,7 +55,7 @@
 ##التنصيب على هيروكو💜
 من أسهل طرق تشغيل البوت ولكن مدتها 22 يوم فقط 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TEPTHONEMUISC/source)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://github.com/778888377/source)
 
 
 
