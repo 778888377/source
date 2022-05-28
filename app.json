@@ -1,16 +1,16 @@
 {
-    "name": "(tebthone_muisc)",
+    "name": "(Elbrevel)",
     "description": "بوت تشغيل الموسيقى والفيديو في االمحادثة الصوتية",
-    "logo": "https://telegra.ph/file/2d2c288212d9dd054a7a3.jpg",
+    "logo": "https://telegra.ph/file/03341a31ae8da70c95ae6.jpg",
     "keywords": [
         "محادثات صوتية",
         "بوتات تيلجرام",
         "تشغيل فديو",
         "بيوجرام"
     ],
-    "website": "https://t.me/muisc_Tepthone",
+    "website": "https://t.me/b_1_4_7",
     "repository": "https://github.com/778888377/source",
-    "success_url": "https://t.me/muisc_Tepthone",
+    "success_url": "https://t.me/b_1_4_7",
     "env": {
         "API_ID": {
             "description": "api id تستطيع جلبه من my.telegram.org",
@@ -47,22 +47,22 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين",
             "required": true,
-            "value": "1260465030"
+            "value": "5309768824"
         },
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "Tepthone_Suporrt_Muisc"
+            "value": "c_3_517"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
             "required": true,
-            "value": "muisc_Tepthone"
+            "value": "b_1_4_7"
         },
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
             "required": true,
-            "value": "P17_12"
+            "value": "Q_P_K_E"
         },
         "ALIVE_NAME": {
             "description": "اسم حسابك علي التيلجرام",
